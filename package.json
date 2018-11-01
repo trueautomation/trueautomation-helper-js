@@ -1,0 +1,26 @@
+{
+  "name": "trueautomation-helper",
+  "version": "0.3.0",
+  "description": "TrueAutomation.IO helper functions",
+  "main": "index.js",
+  "keywords": [
+    "trueautomation",
+    "trueautomation.io",
+    "automation",
+    "testing",
+    "qa",
+    "wdio-service",
+    "wdio-plugin",
+    "wdio"
+  ],
+  "author": {
+    "name": "Softesis Inc.",
+    "email": "info@trueautomation.io",
+    "url": "http://trueautomation.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trueautomation/trueautomation-helper.git"
+  },
+  "license": "MIT"
+}
