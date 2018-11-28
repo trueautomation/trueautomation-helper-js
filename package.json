@@ -1,6 +1,6 @@
 {
   "name": "trueautomation-helper",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "TrueAutomation.IO helper functions",
   "main": "index.js",
   "keywords": [
